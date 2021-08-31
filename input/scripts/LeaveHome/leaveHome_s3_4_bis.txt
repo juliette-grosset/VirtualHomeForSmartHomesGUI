@@ -1,0 +1,5 @@
+<char0> [Walk] <door> (78)
+<char0> [Open] <cabinet> (13)
+<char0> [Close] <cabinet> (13)
+<char0> [Open] <door> (78)
+<char0> [Close] <door> (78)

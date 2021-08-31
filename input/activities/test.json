@@ -1,0 +1,21 @@
+{
+    "config": {},
+    "activities": {
+        "CookBreakfast 1": {
+            "script": ".txt",
+            "duration": "00:00"
+        },
+        "CookDinner 1": {
+            "script": ".txt",
+            "duration": "00:00"
+        },
+        "WatchTv 1": {
+            "script": ".txt",
+            "duration": "00:00"
+        },
+        "SleepInBed 1": {
+            "script": ".txt",
+            "duration": "00:00"
+        }
+    }
+}

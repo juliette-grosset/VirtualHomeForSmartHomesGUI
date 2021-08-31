@@ -1,0 +1,4 @@
+<char0> [Open] <door> (78)
+<char0> [Close] <door> (78)
+<char0> [SwitchOn] <light> (73)
+<char0> [SwitchOn] <television> (57)

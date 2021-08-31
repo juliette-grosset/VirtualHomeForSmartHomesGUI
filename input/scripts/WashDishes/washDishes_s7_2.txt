@@ -1,0 +1,5 @@
+<char0> [Walk] <faucet> (31)
+<char0> [SwitchOn] <faucet> (31)
+<char0> [SwitchOff] <faucet> (31)
+<char0> [Open] <fridge> (17)
+<char0> [Close] <fridge> (17)

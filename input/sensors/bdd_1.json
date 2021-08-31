@@ -1,0 +1,25 @@
+{
+    "indexAppartment": 7,
+    "sensors": {
+        "kitchen": {
+            "cabinet_1": "yes",
+            "fridge": "yes",
+            "faucet_1": "yes",
+            "stove": "yes",
+            "microwave": "yes",
+            "kitchenSensor": "yes"
+        },
+        "livingroom": {
+            "cabinet_2": "yes",
+            "tvRoomSensor": "yes",
+            "livingroomSensor": "yes"
+        },
+        "bathroom": {
+            "bathroomSensor": "yes"
+        },
+        "bedroom": {},
+        "outside": {
+            "main_door": "yes"
+        }
+    }
+}

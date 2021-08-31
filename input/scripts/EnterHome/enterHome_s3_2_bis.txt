@@ -1,0 +1,2 @@
+<char0> [Open] <door> (78)
+<char0> [Close] <door> (78)

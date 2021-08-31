@@ -1,0 +1,6 @@
+<char0> [SwitchOff] <television> (57)
+<char0> [Walk] <light> (14)
+<char0> [SwitchOn] <light> (14)
+<char0> [Walk] <sofa> (48)
+<char0> [SwitchOff] <light> (59)
+<char0> [SwitchOff] <light> (14)

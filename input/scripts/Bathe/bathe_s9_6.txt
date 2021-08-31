@@ -1,0 +1,3 @@
+<char0> [SwitchOn] <faucet> (65)
+<char0> [SwitchOff] <faucet> (65)
+<char0> [SwitchOff] <light> (69)

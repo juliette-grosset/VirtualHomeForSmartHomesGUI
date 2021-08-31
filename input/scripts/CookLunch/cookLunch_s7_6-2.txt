@@ -1,0 +1,6 @@
+<char0> [Open] <drawer> (36)
+<char0> [Close] <drawer> (36)
+<char0> [Open] <drawer> (37)
+<char0> [Close] <drawer> (37)
+<char0> [Walk] <television> (57)
+<char0> [Walk] <fridge> (17)

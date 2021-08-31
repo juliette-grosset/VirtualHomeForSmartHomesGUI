@@ -1,0 +1,3 @@
+<char0> [Walk] <sofa> (48)
+<char0> [Sit] <chair> (19)
+<char0> [Eat] <chair> (19)

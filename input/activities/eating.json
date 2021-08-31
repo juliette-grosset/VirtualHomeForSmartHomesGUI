@@ -1,0 +1,10 @@
+{
+    "config": {
+        "startTime": "10:00",
+        "accelerationTime": 1.0,
+        "date": "07-15-2021"
+    },
+    "activities": {
+        "Eating": "02:00"
+    }
+}

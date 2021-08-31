@@ -1,0 +1,5 @@
+<char0> [Sit] <bed> (12)
+<char0> [Walk] <television> (57)
+<char0> [SwitchOn] <light> (59)
+<char0> [SwitchOn] <light> (44)
+<char0> [SwitchOn] <light> (58)

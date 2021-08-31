@@ -1,0 +1,6 @@
+<char0> [Walk] <table> (47)
+<char0> [Walk] <light> (44)
+<char0> [SwitchOff] <light> (44)
+<char0> [Sit] <sofa> (48)
+<char0> [SwitchOn] <light> (59)
+<char0> [StandUp] <sofa> (48)

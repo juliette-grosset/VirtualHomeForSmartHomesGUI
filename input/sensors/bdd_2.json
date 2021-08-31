@@ -1,0 +1,47 @@
+{
+    "indexAppartment": 7,
+    "sensors": {
+        "kitchen": {
+            "fridge": "yes",
+            "stove": "yes",
+            "faucet_PRE_FUR_Kitchen_counter_01_04": "yes",
+            "drawer_4": "no",
+            "drawer_5": "yes",
+            "drawer_1": "yes",
+            "drawer_2": "yes",
+            "drawer_3": "no",
+            "cabinet_2": "yes",
+            "trashcan": "no",
+            "lightswitch_3": "yes",
+            "kitchen_floor": "yes"
+        },
+        "livingroom": {
+            "sofa": "yes",
+            "television_1": "yes",
+            "lightswitch_5": "yes",
+            "lightswitch_6": "yes",
+            "diningRoom_floor": "yes",
+            "livingRoom_floor": "yes"
+        },
+        "bathroom": {
+            "faucet_PRE_FUR_Toilet_01": "yes",
+            "faucet_mH_BathroomSink": "yes",
+            "lightswitch_4": "yes",
+            "bathroom_floor": "yes"
+        },
+        "bedroom": {
+            "bed": "yes",
+            "cabinet_3": "yes",
+            "lightswitch_2": "yes",
+            "bedroom_floor": "yes"
+        },
+        "outside": {
+            "main_door": "yes",
+            "outside_floor": "no"
+        },
+        "entrance": {
+            "lightswitch_1": "yes",
+            "entrance_floor": "yes"
+        }
+    }
+}

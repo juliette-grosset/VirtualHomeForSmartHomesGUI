@@ -1,0 +1,4 @@
+<char0> [Walk] <toilet> (63)
+<char0> [Open] <toilet> (63)
+<char0> [SwitchOn] <faucet> (64)
+<char0> [SwitchOff] <faucet> (64)

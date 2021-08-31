@@ -1,0 +1,185 @@
+{
+    "objects": {
+        "sofa_3": {
+            "id": "25",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "recliner_1": {
+            "id": "26",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "table_lamp_1": {
+            "id": "34",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_4": {
+            "id": "35",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "wall_lamp_1": {
+            "id": "36",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "door_kitchen_livingroom": {
+            "id": "86",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "chair_4": {
+            "id": "90",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "char_1": {
+            "id": "91",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "chair_2": {
+            "id": "92",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "chair_3": {
+            "id": "93",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "sofa_2": {
+            "id": "97",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "stove_1": {
+            "id": "110",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "dishwasher_1": {
+            "id": "112",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "fridge_1": {
+            "id": "113",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "toaster_1": {
+            "id": "114",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "coffee_maker_1": {
+            "id": "117",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "microwave_1": {
+            "id": "118",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_1": {
+            "id": "119",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_3": {
+            "id": "120",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "television_1": {
+            "id": "155",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "lightswitch_3": {
+            "id": "156",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "wall_lamp_4": {
+            "id": "182",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "wall_lamp_2": {
+            "id": "183",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "table_lamp_2": {
+            "id": "184",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_2": {
+            "id": "185",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "door_bedroom": {
+            "id": "198",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "lightswitch_2": {
+            "id": "204",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "radio_1": {
+            "id": "206",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "sofa_1": {
+            "id": "225",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "bed_1": {
+            "id": "227",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "door_bathroom": {
+            "id": "243",
+            "room": "bathroom",
+            "sensorEquiped": []
+        },
+        "wall_lamp_3": {
+            "id": "244",
+            "room": "bathroom",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_5": {
+            "id": "245",
+            "room": "bathroom",
+            "sensorEquiped": []
+        },
+        "lightswitch_1": {
+            "id": "317",
+            "room": "bathroom",
+            "sensorEquiped": []
+        },
+        "faucet_1": {
+            "id": "253",
+            "room": "bathroom",
+            "sensorEquiped": "binary"
+        },
+        "faucet_2": {
+            "id": "108",
+            "room": "kitchen",
+            "sensorEquiped": "binary"
+        }
+    },
+    "presenceSensors": {}
+}

@@ -1,0 +1,10 @@
+{
+    "config": {
+        "startTime": "10:00",
+        "accelerationTime": 1.0,
+        "date": "01-08-2020"
+    },
+    "activities": {
+        "Going to toilet": "2:00"
+    }
+}

@@ -1,0 +1,3 @@
+<char0> [Walk] <table> (47)
+<char0> [Walk] <cabinet> (13)
+<char0> [Open] <cabinet> (13)

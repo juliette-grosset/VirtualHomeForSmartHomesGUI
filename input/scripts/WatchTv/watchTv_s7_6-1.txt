@@ -1,0 +1,4 @@
+<char0> [SwitchOn] <television> (57)
+<char0> [Sit] <sofa> (48)
+<char0> [StandUp] <sofa> (57)
+<char0> [Sit] <sofa> (48)

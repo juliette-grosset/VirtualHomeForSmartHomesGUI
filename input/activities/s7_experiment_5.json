@@ -1,0 +1,38 @@
+{
+    "config": {
+        "date": "12-07-2021",
+        "accelerationTime": 1.0,
+        "startTime": "17:23",
+        "initRoom" : "bedroom"
+    },
+    "activities": {
+        "Sleep": {
+            "script" : "sleep_s7_5",
+            "duration" : "00:01"
+        },
+        "Go to toilet": {
+            "script" : "goToilet_s7_5",
+            "duration" : "00:00"
+        },
+        "Dress": {
+            "script" : "dress_s7_5",
+            "duration" : "00:00"
+        },
+        "Cook breakfast": {
+            "script" : "cookBf_s7_5",
+            "duration" : "00:03"
+        },
+        "Eat breakfast": {
+            "script" : "eatBf_s7_5",
+            "duration" : "00:03"
+        },
+        "Wash dishes": {
+            "script" : "washDishes_s7_5",
+            "duration" : "00:02"
+        },
+        "Leave home": {
+            "script" : "leaveHome_s7_5",
+            "duration" : "00:01"
+        }
+    }
+}

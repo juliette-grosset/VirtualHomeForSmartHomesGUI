@@ -1,0 +1,2 @@
+<char0> [Walk] <stove> (20)
+<char0> [SwitchOff] <stove> (20)

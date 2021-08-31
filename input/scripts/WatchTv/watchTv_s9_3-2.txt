@@ -1,0 +1,3 @@
+<char0> [Walk] <fridge> (17)
+<char0> [Sit] <sofa> (48)
+<char0> [StandUp] <sofa> (48)

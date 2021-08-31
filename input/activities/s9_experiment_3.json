@@ -1,0 +1,54 @@
+{
+    "config": {
+        "date": "15-07-2021",
+        "accelerationTime": 1.0,
+        "startTime": "15:37",
+        "initRoom" : "outside"
+    },
+    "activities": {
+        "Enter home": {
+            "script" : "enterHome_s9_3",
+            "duration" : "00:00"
+        },
+        "Cook dinner 1": {
+            "script" : "cookDinner_s9_3-1",
+            "duration" : "00:01"
+        },
+        "Watch TV 1": {
+            "script" : "watchTV_s9_3-1",
+            "duration" : "00:03"
+        },
+        "Cook dinner 2": {
+            "script" : "cookDinner_s9_3-2",
+            "duration" : "00:01"
+        },
+        "Eat dinner": {
+            "script" : "eatDinner_s9_3",
+            "duration" : "00:05"
+        },
+        "Wash dishes": {
+            "script" : "washDishes_s9_3",
+            "duration" : "00:01"
+        },
+        "Go to toilet": {
+            "script" : "goToilet_s9_3",
+            "duration" : "00:00"
+        },
+        "Bathe": {
+            "script" : "bathe_s9_3",
+            "duration" : "00:00"
+        },
+        "Watch TV 2": {
+            "script" : "watchTV_s9_3-2",
+            "duration" : "00:00"
+        },
+        "Sleep in bed": {
+            "script" : "sleepInBed_s9_3",
+            "duration" : "00:01"
+        },
+        "Sleep": {
+            "script" : "sleep_s9_3",
+            "duration" : "00:00"
+        }
+    }
+}

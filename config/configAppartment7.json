@@ -1,0 +1,312 @@
+{
+    "objects": {
+        "bed": {
+            "id": "12",
+            "room": "bedroom",
+            "sensorEquiped": [
+                "pressure"
+            ]
+        },
+        "cabinet_3": {
+            "id": "13",
+            "room": "bedroom",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "lightswitch_2": {
+            "id": "14",
+            "room": "bedroom",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "ceiling_lamp_2": {
+            "id": "15",
+            "room": "bedroom",
+            "sensorEquiped": []
+        },
+        "fridge": {
+            "id": "17",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "powerConsumption"
+            ]
+        },
+        "chair_1": {
+            "id": "18",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "chair_2": {
+            "id": "19",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "stove": {
+            "id": "20",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "powerConsumption"
+            ]
+        },
+        "kitchen_counter": {
+            "id": "21",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "faucet_PRE_FUR_Kitchen_counter_01_04": {
+            "id": "31",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "binary"
+            ]
+        },
+        "drawer_6": {
+            "id": "32",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "drawer_4": {
+            "id": "33",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "drawer_5": {
+            "id": "34",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "drawer_3": {
+            "id": "35",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "drawer_1": {
+            "id": "36",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "drawer_2": {
+            "id": "37",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "cabinet_2": {
+            "id": "38",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "shelf_1": {
+            "id": "39",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "trashcan": {
+            "id": "40",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "lightswitch_3": {
+            "id": "44",
+            "room": "kitchen",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "ceiling_lamp_3": {
+            "id": "45",
+            "room": "kitchen",
+            "sensorEquiped": []
+        },
+        "diningTable": {
+            "id": "47",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "sofa": {
+            "id": "48",
+            "room": "livingroom",
+            "sensorEquiped": [
+                "pressure"
+            ]
+        },
+        "water_glass_1": {
+            "id": "50",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "cooking_pot": {
+            "id": "51",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "frying_pan": {
+            "id": "52",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "fork_1": {
+            "id": "53",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "plate_1": {
+            "id": "54",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "juice": {
+            "id": "55",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "television_1": {
+            "id": "57",
+            "room": "livingroom",
+            "sensorEquiped": [
+                "powerConsumption"
+            ]
+        },
+        "lightswitch_5": {
+            "id": "58",
+            "room": "livingroom",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "lightswitch_6": {
+            "id": "59",
+            "room": "livingroom",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "ceiling_lamp_5": {
+            "id": "60",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_6": {
+            "id": "61",
+            "room": "livingroom",
+            "sensorEquiped": []
+        },
+        "toilet": {
+            "id": "63",
+            "room": "bathroom",
+            "sensorEquiped": []
+        },
+        "faucet_PRE_FUR_Toilet_01": {
+            "id": "64",
+            "room": "bathroom",
+            "sensorEquiped": [
+                "binary"
+            ]
+        },
+        "faucet_mH_BathroomSink": {
+            "id": "65",
+            "room": "bathroom",
+            "sensorEquiped": [
+                "binary"
+            ]
+        },
+        "lightswitch_4": {
+            "id": "69",
+            "room": "bathroom",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "ceiling_lamp_4": {
+            "id": "70",
+            "room": "bathroom",
+            "sensorEquiped": []
+        },
+        "ceiling_lamp_1": {
+            "id": "72",
+            "room": "entrance",
+            "sensorEquiped": []
+        },
+        "lightswitch_1": {
+            "id": "73",
+            "room": "entrance",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        },
+        "main_door": {
+            "id": "78",
+            "room": "outside",
+            "sensorEquiped": [
+                "openingClosing"
+            ]
+        }
+    },
+    "presenceSensors": {
+        "livingroom_floor_2": {
+            "room": "livingroom",
+            "floor": "diningRoom_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "bedroom_floor_1": {
+            "room": "bedroom",
+            "floor": "bedroom_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "kitchen_floor_1": {
+            "room": "kitchen",
+            "floor": "kitchen_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "entrance_floor": {
+            "room": "entrance",
+            "floor": "entrance_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "bedroom_floor_2": {
+            "room": "bedroom",
+            "floor": "bedroom_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "outside_floor": {
+            "room": "outside",
+            "floor": "outside_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "kitchen_floor_2": {
+            "room": "kitchen",
+            "floor": "kitchen_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "bathroom_floor": {
+            "room": "bathroom",
+            "floor": "bathroom_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "livingroom_floor_1": {
+            "room": "livingroom",
+            "floor": "livingRoom_floor",
+            "sensorEquiped": "presenceSensor"
+        },
+        "livingroom_floor_3": {
+            "room": "livingroom",
+            "floor": "diningRoom_floor",
+            "sensorEquiped": "presenceSensor"
+        }
+    }
+}

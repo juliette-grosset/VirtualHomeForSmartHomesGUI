@@ -1,0 +1,7 @@
+<char0> [Sit] <chair> (19)
+<char0> [Eat] <chair> (19)
+<char0> [SwitchOn] <light> (58)
+<char0> [Walk] <fridge> (17)
+<char0> [SwitchOn] <light> (44)
+<char0> [Sit] <chair> (19)
+<char0> [Eat] <chair> (19)

@@ -1,0 +1,4 @@
+<char0> [Walk] <television> (57)
+<char0> [SwitchOff] <television> (57)
+<char0> [Open] <door> (78)
+<char0> [Close] <door> (78)

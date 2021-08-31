@@ -1,0 +1,2 @@
+<char0> [SwitchOff] <television> (57)
+<char0> [Walk] <bed> (12)

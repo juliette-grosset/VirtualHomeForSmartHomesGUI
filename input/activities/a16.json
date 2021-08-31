@@ -1,0 +1,10 @@
+{
+    "config": {
+        "startTime": "10:00",
+        "accelerationTime": 1.0,
+        "date": "01-08-2020"
+    },
+    "activities": {
+        "Reaching in the fridge": "01:00"
+    }
+}
